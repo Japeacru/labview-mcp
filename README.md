@@ -2,7 +2,7 @@
 
 Model Context Protocol integration for AI-assisted graphical programming and scientific instrumentation.
 
-> Early-stage project. The implementation is not yet included in this repository. Installation and client configuration will be documented after source review.
+> **Work in progress — early development.** Installation and functionality are not yet fully validated. Breaking changes are expected. The complete source preview is pending upload; this branch currently contains project documentation.
 
 ## Motivation
 
